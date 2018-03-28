@@ -10,5 +10,10 @@ package praktek01;
  * @author EDITOR SAUQI
  */
 public class BiodataSaya {
-    
+    public static void main(String[] args) {
+    BiodataSaya Sauqi = new BiodataSaya();
+     
+  
+    }
+ 
 }
