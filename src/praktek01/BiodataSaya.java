@@ -19,6 +19,8 @@ public class BiodataSaya {
         Sauqi.kelamin="Laki-Laki";
         Sauqi.status="Mahasiswa";
         Sauqi.alamat="Ds.Tambak Danau RT03 RW04 Kec.Astambul";
+        
+        Sauqi.cetakinfo();
     }
  
 }
