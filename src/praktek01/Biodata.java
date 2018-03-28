@@ -10,5 +10,18 @@ package praktek01;
  * @author EDITOR SAUQI
  */
 public class Biodata {
+    String nama;
+    String TTL;
+    String kelamin;
+    String status;
+    String alamat;
     
+void cetakinfo (){
+    System.out.println("Nama     :"+nama);
+    System.out.println("Ttl      :"+TTL);
+    System.out.println("Kelamin  :"+kelamin);
+    System.out.println("Status   :"+status);
+    System.out.println("Alamat   :"+alamat);
+    }
+
 }
