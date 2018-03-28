@@ -11,9 +11,14 @@ package praktek01;
  */
 public class BiodataSaya {
     public static void main(String[] args) {
-    BiodataSaya Sauqi = new BiodataSaya();
-     
-  
+        Biodata Sauqi = new Biodata();
+   
+    
+        Sauqi.nama="Muhammad Sauqi Abdi";
+        Sauqi.TTL="Ds.Tambak Danau";
+        Sauqi.kelamin="Laki-Laki";
+        Sauqi.status="Mahasiswa";
+        Sauqi.alamat="Ds.Tambak Danau RT03 RW04 Kec.Astambul";
     }
  
 }
